@@ -89,20 +89,18 @@ The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY p
 [Component Tree Sample](https://gist.git.generalassemb.ly/davidtwhitlatch/414107e2560ae0bb65e233570f2fe056#file-component-tree-png)
 
 #### Component Architecture
-
-> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like. 
-
 ``` structure
-
 src
 |__ assets/
       |__ fonts
       |__ graphics
       |__ images
-      |__ mockups
+      |__ css/
+          |__Home.css
 |__ components/
-      |__ Header.jsx
+      |__ Home.jsx
 |__ services/
+      |__ Search.jsx
 
 ```
 
@@ -122,8 +120,6 @@ src
 ### Server (Back End)
 
 #### ERD Model
-
-> Use this section to display an image of a computer generated ERD model. You can use draw.io, Lucidchart or another ERD tool.
 
 [ERD Sample](https://drive.google.com/file/d/1geOSP9GNf3O9jm58iQ5C96nUUIhHNvy0/view?usp=sharing)
 <br>
