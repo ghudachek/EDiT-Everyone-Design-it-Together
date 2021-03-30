@@ -44,11 +44,11 @@ The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY p
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
-|      React       | Front end |
-|   React Router   | to make routed enpoints for each page |
-| Rails | creating backend-databases, models, and controllers |
-|     Heroku     | for deploying the backend|
-|  Netlifiy  | to deploy the frontend |
+|      React       | Create frontend |
+|   React Router   | To make routed enpoints for each page |
+| Rails | Creating backend: databases, models, and controllers |
+|     Heroku     | To deploy the backend|
+|  Netlifiy  | To deploy the frontend |
 
 <br>
 
@@ -125,7 +125,7 @@ src
 
 > Use this section to display an image of a computer generated ERD model. You can use draw.io, Lucidchart or another ERD tool.
 
-[ERD Sample](https://drive.google.com/file/d/1kLyQTZqfcA4jjKWQexfEkG2UspyclK8Q/view)
+[ERD Sample](https://drive.google.com/file/d/1geOSP9GNf3O9jm58iQ5C96nUUIhHNvy0/view?usp=sharing)
 <br>
 
 ***
@@ -134,6 +134,7 @@ src
 - Adding a save ability - users save/favorite projects- this gives them a saved location on their account page where they can veiw saved projects
 - An updated Account page: users account pages will not just be for them to update their info but will also be a page they can decorate and other users can come to to learn more about them or follow to keep up with their DIYs (similar to etsy layout).
 - A comments section: giving users the ability to comment on projects 
+- Allowing users to uplaod photos (not urls)--would require AWS
 - Live Videos/ time slots to actually DIY together.
 ***
 
