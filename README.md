@@ -19,12 +19,13 @@
 
 ## Overview
 
-_**EDiT** is a DIY(or do it together!) blogging site where users can add DIY projects they've done or search for a product they'd like to do. There will be categories such as: home decor, clothing, general crafts, DIY for kids. The goal of the site is to have people inspire one another and give each other ideas on repurpsoing items or just giving somone ane easy place to look up a fun weekend activity.
+**EDiT** is a DIY(or do it together!) blogging site where users can add DIY projects they've done or search for a product they'd like to do. There will be categories such as: home decor, clothing, general crafts, DIY for kids. The goal of the site is to have people inspire one another and give each other ideas on repurpsoing items or just giving somone ane easy place to look up a fun weekend activity.
 
 
 <br>
 
 ## MVP
+
 The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY projects), a landing page, login/create account page,account page, and a home page where veiwers can see the projects. 
 
 <br>
@@ -41,15 +42,13 @@ The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY p
 
 ### Libraries and Dependencies
 
-> Use this section to list all supporting libraries and dependencies, and their role in the project. Below is an example - this needs to be replaced!
-
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
 |      React       | Front end |
 |   React Router   | to make routed enpoints for each page |
 | Rails | creating backend-databases, models, and controllers |
 |     Heroku     | for deploying the backend|
-|  Netlfiy  | to deploy the frontend |
+|  Netlifiy  | to deploy the frontend |
 
 <br>
 
