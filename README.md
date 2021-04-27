@@ -1,5 +1,4 @@
 # EDiT-Everyone-Design-it-Together
-# PROJECT 4 README <!-- omit in toc -->
 - [Overview](#overview)
 - [MVP](#mvp)
   - [Goals](#goals)
@@ -19,7 +18,7 @@
 
 ## Overview
 
-**EDiT** is a DIY(or do it together!) blogging site where users can add DIY projects they've done or search for a product they'd like to do. There will be categories such as: home decor, clothing, general crafts, DIY for kids. The goal of the site is to have people inspire one another and give each other ideas on repurpsoing items or just giving somone ane easy place to look up a fun weekend activity.
+**EDiT** is a DIY(or do it together!) blogging site where users can add DIY projects they've done or search for a product they'd like to do. There will be categories such as: home decor, clothing, general crafts, DIY for kids. The goal of the site is to have people inspire one another and give each other ideas on repurpsoing items or just giving somone an easy place to look up a fun weekend activity.
 
 
 <br>
@@ -48,7 +47,7 @@ The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY p
 |   React Router   | To make routed enpoints for each page |
 | Rails | Creating backend: databases, models, and controllers |
 |     Heroku     | To deploy the backend|
-|  Netlifiy  | To deploy the frontend |
+|  Netlify  | To deploy the frontend |
 
 <br>
 
@@ -56,35 +55,16 @@ The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY p
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views. No hand-drawn wireframes. Use a tool like wireframe.cc, Whimsical or AdobeXD
+![Dummy Link](url)
+
+- Desktop
 
 ![Dummy Link](url)
 
-- Desktop Landing
+- Mobile
 
-![Dummy Link](url)
-
-- Desktop Hero
-
-![Dummy Link](url)
-
-- Resource Index
-
-![Dummy Link](url)
-
-- Resource Show
-
-![Dummy Link](url)
-
-- Tablet Resource Index
-
-![Dummy Link](url)
-
-- Mobile Resource Index
 
 #### Component Tree
-
-> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. Include a link to your component tree
 
 [Component Tree Sample](https://gist.git.generalassemb.ly/davidtwhitlatch/414107e2560ae0bb65e233570f2fe056#file-component-tree-png)
 
@@ -103,17 +83,6 @@ src
       |__ Search.jsx
 
 ```
-
-#### Time Estimates
-
-> Use this section to estimate the time necessary to build out each of the components you've described above.
-
-| Task                | Priority | Estimated Time | Time Invested | Actual Time |
-| ------------------- | :------: | :------------: | :-----------: | :---------: |
-| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
-
 
 <br>
 
@@ -134,6 +103,3 @@ src
 - Live Videos/ time slots to actually DIY together.
 ***
 
-## Code Showcase
-
-## Code Issues & Resolutions
