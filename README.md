@@ -55,13 +55,10 @@ The **EDiT** MVP is to have a full CRUD functioning for users on posts(the DIY p
 
 #### Wireframes
 
-![Dummy Link](url)
+![Desktop Idea](https://user-images.githubusercontent.com/57376725/116276773-73f84100-a74a-11eb-897b-d670ea534649.png)
 
-- Desktop
+![Mobile Idea](https://user-images.githubusercontent.com/57376725/116276854-896d6b00-a74a-11eb-8674-004725630f73.png)
 
-![Dummy Link](url)
-
-- Mobile
 
 
 #### Component Tree
